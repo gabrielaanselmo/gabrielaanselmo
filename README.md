@@ -1,6 +1,6 @@
 # Olá, Seja Bem-Vindo(a) ao meu perfil. 🥰
 
-- Desenvolvimento front-end.
+- Desenvolvimento back-end.
 - UI/UX
 - QA Tester
 
