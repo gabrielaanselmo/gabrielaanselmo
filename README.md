@@ -1,5 +1,4 @@
 # Olá, Seja Bem-Vindo(a) ao meu perfil. 🥰
-Sou uma pessoa em constante processo de aprendizagem, com a mente aberta para todas as experiências e oportunidades que surgirem. Sou bastante simpática, analítica, comunicativa, criativa, proativa e comprometida.
 
 Desde criança, sempre fui uma entusiasta da área de tecnologia em geral, o que me levou a seguir uma carreira na área de QA. Com forte interesse em entender como as coisas funcionam e um desejo de garantir que os produtos estejam funcionando da melhor forma possível, encontrei meu lugar na área de qualidade de software. Combinando minha paixão pela tecnologia com minhas habilidades de resolução de problemas, sou capaz de oferecer soluções eficazes e eficientes para garantir a entrega de produtos de qualidade.
 # Tecnologias
