@@ -7,7 +7,5 @@ Desde criança, sempre fui uma entusiasta da área de tecnologia em geral, o que
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaanselmo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaanselmo&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-<div style="display: inline-block"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
