@@ -8,4 +8,8 @@ Desde meus primeiros anos, fui fascinada pelo mundo da tecnologia. Essa paixão 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaanselmo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaanselmo&layout=compact&langs_count=7&theme=radical"/>
 </div>
-</div>
+<div align="center" valign="top"><br>
+  <img align="center" alt="py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-plain.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div><br>
