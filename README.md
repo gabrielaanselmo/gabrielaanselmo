@@ -12,14 +12,12 @@ Pra mim, qualidade não é só validar o que foi feito. É **antecipar problemas
 - **Automação de testes:** testes manuais e automatizados, smoke tests
 - **CI/CD:** integração e entrega contínuas
 - **IA e engenharia:** agentes de IA, LLMs, MCP, integrações e engenharia de dados
-- **Cloud:** AWS e Azure
 
 ## 🌱 Em foco agora
 
 - Evoluir na interseção entre **QA e IA**
-- Construir times de qualidade do zero
-- Aproximar o time técnico do contexto real do cliente, da causa raiz até a validação final
 
 ## 📫 Vamos conversar
 
 - 👩‍💻 Portfólio: [gabrielaanalistaqa.netlify.app](https://gabrielaanalistaqa.netlify.app/)
+- 📧 E-mail: contato.anselmotech@gmail.com
